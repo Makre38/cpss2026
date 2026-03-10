@@ -1,2 +1,4 @@
 # cpss2026
-CompPhysSpringSchool2026_test_repo
+CompPhysSpringSchool2026 test repo
+
+Hello github
